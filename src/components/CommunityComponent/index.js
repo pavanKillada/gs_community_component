@@ -36,7 +36,7 @@ const CommunityComponent = ()=>{
                         <button className='card-btn'>Join our Discord</button>
                     </div>
                 </div>
-                <img className='community-img' src="https://astro.build/_astro/community-cloud.9e8d7d78.webp" alt=""/>
+                <img className='community-img' src="https://ik.imagekit.io/pavanKillada/community-cloud?updatedAt=1692716248411" alt="community cloud"/>
             </div>
         </div>
         
